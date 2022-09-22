@@ -1,0 +1,51 @@
+Term1	Term2	score	BS1	BS2	Terms_in_BS1	Terms_in_BS2
+disturbo bipolare	problema	4	bn:00010593n	bn:00078425n	psicosi maniaco-depressiva,Disturbo bipolare,spettro bipolare,sindrome maniaco-depressiva,Depressione bipolare	preoccupazione,inquietudine,affanno,angoscia,angustia
+acido	base	2	bn:00000902n	bn:00002771n	acido,Acidi,Acidi inorganici,Acidi organici,Acido organico	base,alcali,Base forte,Alcale,Alcalina
+zero assoluto	vapore	1	bn:00000453n	bn:00079571n	zero assoluto,-273.15°C,-273°,-273°C,0 assoluto	vapore,Fase di vapore,Fase vapore,Stato di vapore,Stato vapore
+rivoluzione verde	vernice	0	bn:03594063n	bn:00060187n	rivoluzione verde	vernice,colore,pittura,tinta,Vernici
+sistema operativo	deep learning	1	bn:00059123n	bn:02601968n	sistema operativo,Sistemi operativi,OS,SO,sistema operativo del computer	Apprendimento profondo,deep learning,profonde apprendimento
+olimpiadi internazionali di matematica	teoria	2	bn:03701756n	bn:00076835n	Olimpiadi internazionali della matematica,Olimpiadi internazionali di matematica,IMO,Olimpiadi della matematica,Olimpiadi di matematica	teoria
+El Niño	equatore	2	bn:00030030n	bn:00031294n	El Niño,El Nino,El Niño Southern Oscillation,ENSO,La Niña	equatore,Circonferenza equatoriale,Equatore terrestre
+distintivo	vetro	0	bn:00007896n	bn:00040605n	distintivo,fregio,insegna,onorificenza,spilla	vetro,Vetraio,Cristalleria,Cristallerie,Ialurgia
+dimora	scultore	1	bn:00000356n	bn:00016356n	abitazione,casa,dimora,domicilio,residenza	scultore,scultrice,statuario,statua creatore
+atmosfera	ozono	3	bn:00006807n	bn:00060040n	atmosfera	ozono,Generatore di ozono,Ozonizzatore,O₃
+scudo	brocchiero	4	bn:00013602n	bn:00013602n	scudo,Brocchiero,Brocchiere,Buckler,Scudi	scudo,Brocchiero,Brocchiere,Buckler,Scudi
+moneta	pagamento	3	bn:00020497n	bn:00061119n	moneta,monete,Battere moneta,Emissione di moneta,esergo	pagamento,compenso,corresponsione,retribuzione,versamento
+avena	campo	2	bn:00058415n	bn:00034265n	avena,Avena sativa,Avena sativa subsp. macrantha,Avena comune,avenina	campo,campagna,campo agricolo
+monaco	croce	2	bn:00055633n	bn:00024103n	monachesimo,monachismo,Ordini monastici,Monaci,Monaco	crocifisso,croce,crocefisso,Crocifissi,Crucifisso
+cannoniera	costa	2	bn:00042239n	bn:00020164n	cannoniera,cannoniere,gunvessel	costa,litorale,marina,riva del mare,costiera
+roccia	miniera	2	bn:00068046n	bn:14601351n	roccia,pietra,sasso,Rocce,pietre	Miniera,miniera di minerale,Estrazione in miniera,Minatore,Minatori
+leggenda	morale	2	bn:00032591n	bn:00050794n	leggenda,epopea,favola,legenda,leggende	morale,ammaestramento,lezione
+campione	vincitore	4	bn:00017605n	bn:00079944n	campione,campionessa,campioni del mondo,detentore del titolo,partita di campionato	vincitore,trionfatore,vincitrice
+dado	cubo	4	bn:00026920n	bn:00024258n	dado,dadi,Dado da gioco,⚀,⚁	cubo,esaedro regolare
+topologia	struttura	2	bn:00003800n	bn:03830506n	topologia,Studio dei luoghi,analisi situs,topologica,topologicamente	struttura,strutturi,strutturali,strutturalmente,strutture
+cappella	cavo	0	bn:00017719n	bn:00068266n	cappella,chiesetta,Cappelle,Cappellania,Cappellania laicale	corda,cavo,cima,cordone,fune
+flusso di cassa	fiume	0	bn:00016458n	bn:00067948n	flusso di cassa,Flussi di cassa,Cash flow	fiume,Fiumi,Corsi d'acqua,Corso d'acqua,Fiume glaciale
+serial killer	assassino	4	bn:00070599n	bn:00051488n	serial killer,assassino seriale,assassina seriale,omicida seriale,serial-killer	assassino,omicida,assassina
+matrice	molecola	1	bn:00053849n	bn:00055564n	matrice,algebra matriciale,matrici,Vettore colonna,Vettore riga	molecola,Molecole,Struttura molecolare,Composto molecolare,Molecola complessa
+moda	stile	2	bn:00033731n	bn:00032400n	moda,abbigliamento,Stilista,Stilisti,dichiarazione moda	stile,stile artistico,stile espressivo
+vessillologia	bandiera	2	bn:00646030n	bn:00034960n	Vessillologia,Vessillo,logo,vexillologist	bandiera,insegna,Bandiere,Stendardi,Stendardo
+trattato di Maastricht	Europa	2	bn:01352045n	bn:00021127n	Trattato di Maastricht,Accordi di Maastricht,trattato sull'Unione Europea,Trattato sull'Unione Europea - Trattato	Unione europea,CEE,Comunità economica europea,ue,Europa unita
+geyser	sorgente	3	bn:00040351n	bn:00036077n	geyser,scaldabagno	sorgente,fonte,polla,scaturigine,acque sorgive
+saccarosio	carboidrato	1	bn:00068722n	bn:00015853n	saccarosio,Inversione del saccarosio,Zucchero,zucchero da tavola,zucchero semolato	saccaride,carboidrato,glucide,Glucidi,glicide
+spiaggia	costa	3	bn:00009263n	bn:00020164n	spiaggia,arenile,lido,spiagge,spiaggia sabbia	costa,litorale,marina,riva del mare,costiera
+mercato azionario	borsa	2	bn:00070218n	bn:00070218n	mercato azionario,borsa,borsa valori,mercato borsistico,mercato mobiliare	mercato azionario,borsa,borsa valori,mercato borsistico,mercato mobiliare
+tradizione	artigianato	2	bn:00024592n	bn:00023496n	tradizione,costumanza,costume,tradizionale,tradizionalmente	mestiere,artigianato,commercio,arte,professione
+romanzo	scrittore	2	bn:00058201n	bn:00007287n	romanzo,Romanzi,Romanziere,Romanzieri,Romanzo ottocentesco	autore,scrittore,autrice,autori,autore televisivo
+panino	Subway	2	bn:06782683n	bn:00054667n	panino,panino imbottito	metropolitana,metrò,sotterranea,ferrovia sotterranea,linea metropolitana
+acustica	suono	2	bn:00000989n	bn:20277502n	acustica,Fisica acustica,dati acustici,ingegnere acustico	suono,Sonorità,Suoni
+scherma	ginnastica	3	bn:00034059n	bn:00042326n	Scherma,combattimento con la spada,Cavazione,Scherma olimpica,Scherma sportiva	ginnastica,educazione fisica,Ginnasti,Attività ginniche,Ginnasta
+scrittore	regalo	0	bn:00007287n	bn:00040436n	autore,scrittore,autrice,autori,autore televisivo	dono,regalo,presente,omaggio,ragalo
+bosco	Tiger Woods	0	bn:00035868n	bn:03181223n	foresta,bosco,selva,bosco misto,Wälder	Tiger Woods,Eldrick Tont Woods
+nuvola	finestra	1	bn:00020002n	bn:00081285n	nuvola,nube,nembo,Nuvole,Nefologia	finestra,bordo della finestra,davanzale,davanzale della finestra
+JPEG	PDF	3	bn:00838809n	bn:01745594n	JPEG,Jfif,Joint Photographic Experts Group,JPE,JPG	Portable Document Format,.pdf,Adobe Acrobat Document,ISO 32000,PDF
+regista	capo	4	bn:00027369n	bn:15183555n	Regia cinematografica,regista,regista cinematografico,Cineasta,regia	Capo,Headship,leader
+tassa	Brexit	2	bn:00067519n	bn:17400607n	imposta,tassa,tassazione,imposizione,tributo	Referendum sulla permanenza del Regno Unito nell'Unione europea,Brexit,referendum sull'uscita del Regno Unito nell'Unione europea,referendum sull'uscita della Gran Bretagna nell'Unione europea,referendum sulla Brexit
+impollinazione	stame	2	bn:00063375n	bn:00073884n	impollinazione,pollinazione,Impollinazione incrociata,Amenofilia,Anemofilia	stame,Stami,androceo,androphore,antere
+videogioco	gioco per PC	4	bn:00021477n	bn:00021477n	videogioco,videogame,videogiochi,gioco di computer,gioco elettronico	videogioco,videogame,videogiochi,gioco di computer,gioco elettronico
+cura	operazione chirurgica	3	bn:00076843n	bn:05668966n	terapia,Terapia medica,terapie,trattamento medico,cura	operazione,operazione chirurgica,intervento chirurgico
+risaia	patata	2	bn:00060141n	bn:00047481n	risaia,Risaie,risone,campi di riso,campo di riso	patata,Solanum tuberosum,Patate,Coltivazione della patata,murphy
+appunti	compito	2	N/A	N/A	None	None
+volpe	cellula del sangue	1	bn:00036129n	N/A	volpe,Vulpini,🦊,volpi,vulpine
+cloruro di sodio	sale	4		bn:00021160n	cloruro di sodio,salgemma,NaCI,NaCl,Natrum muriaticum	sale,sale da cucina,sale da tavola,cloruro-di-sodiosale-da-tavola
+reddito	qualità della vita	2	bn:14505599n	bn:00065542n	reddito	qualità di vita,qualità della vita,Qol,misurazione del benessere,vivibilità

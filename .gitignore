@@ -1,0 +1,6 @@
+.vscode/
+__pycache__/
+.ipynb_checkpoints
+sketches/
+data/dd-nasari.txt
+data/dd-small-nasari-15.txt

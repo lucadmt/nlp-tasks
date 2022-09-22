@@ -1,0 +1,19 @@
+% start S
+S[SEM=<?vp(?subj)>] -> NP[SEM=?subj] VP[SEM=?vp]
+S[SEM=<?vp(?aux)>] -> X1[SEM=?aux] VP[SEM=?vp]
+X1[SEM=<?aux(?subj)>] -> Aux[SEM=?aux] NP[SEM=?subj]
+S[SEM=<?adj(?subj)>] -> NP[SEM=?subj] Adj[SEM=?adj]
+NP[SEM=<yer>] -> "yer"
+NP[SEM=<anha>] -> "anha"
+NP[SEM=<anna>] -> "anna"
+NP[SEM=<yera>] -> "yera"
+NP[SEM=<dothraki>] -> "dothraki"
+VP[SEM=<?v(?obj)>] -> Verb[SEM=?v] NP[SEM=?obj]
+VP[SEM=<?prep(?v)>] -> Verb[SEM=?v] PP[SEM=?prep]
+VP[SEM=<?vp(?prep)>] -> VP[SEM=?vp] PP[SEM=?prep]
+Verb[SEM=<\x.\y.zhilak(y, x)>] -> "zhilak"
+Verb[SEM=<\x.\y.astoe(y, x)>] -> "astoe"
+Adj[SEM=<\x.gavork(x)>] -> "gavork"
+Aux[SEM=<\x.x>] -> "hash"
+PP[SEM=<?prep(?obj)>] -> Preposition[SEM=?prep] NP[SEM=?obj]
+Preposition[SEM=<\P Q.exists x.(P(x) & Q(x))>] -> "ki"
